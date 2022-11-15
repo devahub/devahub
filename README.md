@@ -1,6 +1,8 @@
+
+<img align="center" alt="Coding" width="1000" height="500" src="https://media0.giphy.com/media/13HgwGsXF0aiGY/giphy.gif?cid=790b76110e28e3c5c85f1d1043933e36ccaf70ce341c6fce&rid=giphy.gif&ct=g">
 <h1 align="center">Hi 👋, I'm Devansh sachan</h1>
 <h3 align="center">Competitive Programmer & Front-End Developer</h3>
-<img align="center" alt="Coding" width="1000" height="600" src="https://media0.giphy.com/media/13HgwGsXF0aiGY/giphy.gif?cid=790b76110e28e3c5c85f1d1043933e36ccaf70ce341c6fce&rid=giphy.gif&ct=g">
+
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=devahub&label=Profile%20views&color=0e75b6&style=flat" alt="devahub" /> </p>
 
