@@ -18,7 +18,8 @@
 
 - 📫 How to reach me **https://linktr.ee/devaaaaa**
 
-- 📄 My Resume/CV [https://drive.google.com/file/d/1HgIcHplaQrc-lL_W_hDvlomB6yuj4XkT/view?usp=share_link](https://drive.google.com/file/d/1HgIcHplaQrc-lL_W_hDvlomB6yuj4XkT/view?usp=share_link)
+- 📄 My Resume/CV [https://drive.google.com/file/d/1HgIcHplaQrc-lL_W_hDvlomB6yuj4XkT/view?usp=share_link](https://drive.google.com/file/d/1keT-HwhOuleDo9oQ_OWeYyXkvqAb9qKn/view?usp=share_link
+)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
