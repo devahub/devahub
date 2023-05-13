@@ -10,9 +10,9 @@
 
 <p align="center"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
-- 🔭 I’m currently working on **Stock market prediction app**
+- 🔭 I’m currently working on **Full stack web application**
 
-- 🌱 I’m currently learning **ReactJs**
+- 🌱 I’m currently learning **Backend**
 
 - 👯 I’m looking to collaborate on **ReactJs and Nodejs**
 
